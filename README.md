@@ -1,3 +1,3 @@
 # MiniProjects-In-CPP
 
-Mini projects 
+A bunch of projects done in C++ language
